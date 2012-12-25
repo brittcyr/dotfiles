@@ -1,0 +1,3 @@
+" Return to normal mode with jj
+inoremap jj <C-c>
+cnoremap jj <C-c>
