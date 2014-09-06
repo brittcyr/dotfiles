@@ -112,3 +112,6 @@ set autoindent
 :command Wq wq
 :command W w
 :command Q q
+
+" Make sure the viminfo is always writable on afs
+set viminfo=!,'50,<200,s10,:0,n.viminfo
